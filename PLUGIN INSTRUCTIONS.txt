@@ -1,0 +1,9 @@
+- Open the project
+- The engine will ask to download the engine from the marketplace.
+- Click Yes
+- You will be directed to a Mega download page
+- Make sure the engine is closed. If the project is opening anyway, wait for it to open and close unreal engine
+- Download the file (be careful not to download the mega file manager, you can download the file directly from your browser)
+- Copy the ZIP content into the project Plugin directory (it is a folder in the main project folder, along with Content and the other shit)
+- Open the project
+- If after loading everything you can read -new plugins added to the project- or something like that, and by clicking on it you will be able to see the 'victory plugin' or something like that, it means you're a winner!
